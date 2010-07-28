@@ -1,0 +1,10 @@
+README text file for project 'spettro'
+
+This project uses some programming tool to obtain the function that represents
+italian seismic risk in some site.
+
+It's based on the D.M. 14/01/2008 law, from which I have extract the necessary
+data.
+
+Roberto Giacomelli (c) 2010
+
